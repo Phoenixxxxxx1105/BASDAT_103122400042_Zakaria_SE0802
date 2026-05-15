@@ -1,0 +1,9 @@
+nama_produk,nama_pelanggan,jumlah_beli,total_bayar
+Kopi,Ilham,2,50000.000
+Roti,Budi,5,75000.000
+ERROR: unknown option: "--".  Usage:
+[1m[38;5;33m.output[00m[38;5;220m ?FILE?[00m    Send output to FILE or stdout if FILE is omitted
+  If FILE begins with '|' then open as a pipe
+[38;5;220m    --bom[00m         Put a UTF8 byte-order mark at the beginning
+[38;5;220m    -e[00m            Send output to the system text editor
+[38;5;220m    -x[00m            Send output as CSV to a spreadsheet (same as ".excel")

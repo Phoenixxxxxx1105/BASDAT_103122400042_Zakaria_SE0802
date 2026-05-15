@@ -1,0 +1,24 @@
+id_halte,nama_halte,koridor_utama,lokasi_lat,lokasi_lon,tipe_halte,fasilitas_toilet,fasilitas_mushola,status_operasional,alamat_lengkap,kecamatan,kota_administrasi
+H01,Blok M,1,-6.244,106.799,End Station,true,true,Beroperasi,Jl. Sultan Hasanuddin,Kebayoran Baru,Jakarta Selatan
+H02,Karet,1,-6.211,106.822,Transit,true,false,Beroperasi,Jl. Jend. Sudirman,Setiabudi,Jakarta Selatan
+H03,Bundaran HI,1,-6.192,106.823,End Station,true,true,Beroperasi,Jl. MH Thamrin,Menteng,Jakarta Pusat
+H06,Dukuh Atas 1,1,-6.201,106.824,Transit,true,true,Beroperasi,Jl. Jend. Sudirman,Setiabudi,Jakarta Selatan
+H07,Tosari,1,-6.197,106.823,Standard,false,false,Beroperasi,Jl. MH Thamrin,Menteng,Jakarta Pusat
+H08,Sarinah,1,-6.187,106.823,Standard,false,false,Beroperasi,Jl. MH Thamrin,Menteng,Jakarta Pusat
+H09,Monas,1,-6.175,106.822,Transit,true,true,Beroperasi,Jl. Medan Merdeka Barat,Gambir,Jakarta Pusat
+H10,Harmoni,1,-6.167,106.82,Central Station,true,true,Beroperasi,Jl. Gajah Mada,Gambir,Jakarta Pusat
+H11,Sawah Besar,1,-6.16,106.82,Standard,false,false,Beroperasi,Jl. Gajah Mada,Sawah Besar,Jakarta Pusat
+H12,Mangga Besar,1,-6.149,106.819,Standard,false,false,Beroperasi,Jl. Gajah Mada,Tamansari,Jakarta Barat
+H13,Glodok,1,-6.141,106.816,Standard,false,false,Beroperasi,Jl. Gajah Mada,Tamansari,Jakarta Barat
+H15,Kota,1,-6.137,106.814,End Station,true,true,Beroperasi,Jl. Pintu Besar Selatan,Tamansari,Jakarta Barat
+H17,Senen,2,-6.174,106.844,Transit,true,true,Beroperasi,Jl. Letjen Suprapto,Senen,Jakarta Pusat
+H18,Pulogadung 1,2,-6.188,106.9,End Station,true,true,Beroperasi,Jl. Bekasi Raya,Pulogadung,Jakarta Timur
+H19,Cempaka Mas,2,-6.17,106.877,Transit,true,false,Beroperasi,Jl. Letjen Suprapto,Kemayoran,Jakarta Pusat
+H21,Kampung Melayu,5,-6.224,106.858,Central Station,true,true,Beroperasi,Jl. Jatinegara Barat,Jatinegara,Jakarta Timur
+H22,Tebet,5,-6.226,106.85,Standard,false,false,Beroperasi,Jl. KH Abdullah Syafei,Tebet,Jakarta Selatan
+H24,Kuningan Timur,6,-6.23,106.827,Transit,true,false,Beroperasi,Jl. HR Rasuna Said,Setiabudi,Jakarta Selatan
+H25,Ragunan,6,-6.311,106.82,End Station,true,true,Beroperasi,Jl. Harsono RM,Pasar Minggu,Jakarta Selatan
+H26,Grogol 1,3,-6.167,106.788,Transit,true,true,Beroperasi,Jl. Kyai Tapa,Grogol Petamburan,Jakarta Barat
+H27,Pinang Ranti,9,-6.289,106.892,End Station,true,true,Beroperasi,Jl. Raya Pondok Gede,Makasar,Jakarta Timur
+H28,Pluit,9,-6.126,106.793,End Station,true,true,Beroperasi,Jl. Pluit Permai,Penjaringan,Jakarta Utara
+H30,Lebak Bulus,8,-6.291,106.774,End Station,true,true,Beroperasi,Jl. Lebak Bulus Raya,Cilandak,Jakarta Selatan
